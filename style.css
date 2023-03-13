@@ -16,13 +16,17 @@ h3,h2,label{
     display: flex;
     justify-content: center;
     padding: 15px;
+    
 }
 
 .title{
     color: aliceblue;
 }
 
-
+hr{
+    background-color: wheat;
+    border-style:solid;
+}
 
 img {
     width: 300px;
