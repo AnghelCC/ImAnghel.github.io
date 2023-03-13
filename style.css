@@ -1,5 +1,7 @@
 body{
-    background-color:#16161a        
+    background-color:#16161a;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: large;
 }
 
 p,h1,li{
@@ -9,17 +11,18 @@ p,h1,li{
     justify-content: center;
 
 }
-
-.title{
-    color: aliceblue;
-}
-
 h3,h2,label{
     color: #ff8906;
     display: flex;
     justify-content: center;
     padding: 15px;
 }
+
+.title{
+    color: aliceblue;
+}
+
+
 
 img {
     width: 300px;
